@@ -1,4 +1,4 @@
-Feature: Automation Chrome - Test Login Screen available components
+Feature: New Account Creation
   @AccountCreation @RegressionTest
   Scenario: Verify Successful Account Creation
     Given A client wants to create an account in the platform
